@@ -1,0 +1,57 @@
+[
+  { "iata": "ASB", "city": "Ашхабад", "airport_note": null },
+  { "iata": "CRZ", "city": "Туркменабат", "airport_note": null },
+  { "iata": "MYP", "city": "Мары", "airport_note": null },
+  { "iata": "TAZ", "city": "Дашогуз", "airport_note": null },
+  { "iata": "KRW", "city": "Туркменбаши", "airport_note": null },
+  { "iata": "NBD", "city": "Балканабад", "airport_note": null },
+
+  { "iata": "IST", "city": "Стамбул", "airport_note": null },
+  { "iata": "SAW", "city": "Стамбул", "airport_note": "сабиха" },
+  { "iata": "ADB", "city": "Измир", "airport_note": null },
+  { "iata": "AYT", "city": "Анталья", "airport_note": null },
+  { "iata": "ESB", "city": "Анкара", "airport_note": null },
+
+  { "iata": "DXB", "city": "Дубай", "airport_note": null },
+  { "iata": "DWC", "city": "Дубай", "airport_note": "аль-мактум" },
+  { "iata": "SHJ", "city": "Шарджа", "airport_note": null },
+  { "iata": "AUH", "city": "Абу-Даби", "airport_note": null },
+  { "iata": "RKT", "city": "Рас-эль-Хайма", "airport_note": null },
+
+  { "iata": "DEL", "city": "Дели", "airport_note": null },
+  { "iata": "BOM", "city": "Мумбаи", "airport_note": null },
+
+  { "iata": "BJS", "city": "Пекин", "airport_note": null },
+  { "iata": "PEK", "city": "Пекин", "airport_note": "шоуду" },
+  { "iata": "PKX", "city": "Пекин", "airport_note": "дасин" },
+
+  { "iata": "FRA", "city": "Франкфурт", "airport_note": null },
+  { "iata": "LON", "city": "Лондон", "airport_note": null },
+  { "iata": "LHR", "city": "Лондон", "airport_note": "хитроу" },
+  { "iata": "LGW", "city": "Лондон", "airport_note": "гатвик" },
+  { "iata": "STN", "city": "Лондон", "airport_note": "станстед" },
+
+  { "iata": "MOW", "city": "Москва", "airport_note": null },
+  { "iata": "SVO", "city": "Москва", "airport_note": "шереметьево" },
+  { "iata": "DME", "city": "Москва", "airport_note": "домодедово" },
+  { "iata": "VKO", "city": "Москва", "airport_note": "внуково" },
+  { "iata": "ZIA", "city": "Москва", "airport_note": "жуковский" },
+
+  { "iata": "KZN", "city": "Казань", "airport_note": null },
+  { "iata": "LED", "city": "Санкт-Петербург", "airport_note": null },
+  { "iata": "SVX", "city": "Екатеринбург", "airport_note": null },
+  { "iata": "AER", "city": "Сочи", "airport_note": null },
+  { "iata": "OVB", "city": "Новосибирск", "airport_note": null },
+  { "iata": "ROV", "city": "Ростов-на-Дону", "airport_note": null },
+  { "iata": "UFA", "city": "Уфа", "airport_note": null },
+  { "iata": "GOJ", "city": "Нижний Новгород", "airport_note": null },
+
+  { "iata": "TAS", "city": "Ташкент", "airport_note": null },
+  { "iata": "SKD", "city": "Самарканд", "airport_note": null },
+  { "iata": "BHK", "city": "Бухара", "airport_note": null },
+
+  { "iata": "GYD", "city": "Баку", "airport_note": null },
+  { "iata": "ALA", "city": "Алматы", "airport_note": null },
+  { "iata": "NQZ", "city": "Астана", "airport_note": null },
+  { "iata": "TBS", "city": "Тбилиси", "airport_note": null }
+]

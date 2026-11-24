@@ -1,0 +1,15 @@
+[
+  { "iata": "T5", "name": "Turkmenistan Airlines", "flag": "🇹🇲" },
+  { "iata": "TK", "name": "Turkish Airlines", "flag": "🇹🇷" },
+  { "iata": "SU", "name": "Aeroflot", "flag": "🇷🇺" },
+  { "iata": "S7", "name": "S7 Airlines", "flag": "🇷🇺" },
+  { "iata": "EK", "name": "Emirates", "flag": "🇦🇪" },
+  { "iata": "FZ", "name": "Flydubai", "flag": "🇦🇪" },
+  { "iata": "HY", "name": "Uzbekistan Airways", "flag": "🇺🇿" },
+  { "iata": "J2", "name": "Azerbaijan Airlines", "flag": "🇦🇿" },
+  { "iata": "QR", "name": "Qatar Airways", "flag": "🇶🇦" },
+  { "iata": "LH", "name": "Lufthansa", "flag": "🇩🇪" },
+  { "iata": "KC", "name": "Air Astana", "flag": "🇰🇿" },
+  { "iata": "B2", "name": "Belavia", "flag": "🇧🇾" },
+  { "iata": "PS", "name": "Ukraine International Airlines", "flag": "🇺🇦" }
+]

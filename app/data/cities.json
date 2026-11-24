@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Ашхабад",
+    "country": "Туркменистан",
+    "iata": "ASB",
+    "aliases": ["Ashgabat", "Ашхабат", "Ashkhabad"],
+    "category": "turkmenistan",
+    "show_in_buttons": true
+  },
+  {
+    "name": "Туркменабат",
+    "country": "Туркменистан",
+    "iata": "CRZ",
+    "aliases": ["Turkmenabat", "Чарджоу", "Charjew"],
+    "category": "turkmenistan",
+    "show_in_buttons": true
+  },
+  {
+    "name": "Мары",
+    "country": "Туркменистан",
+    "iata": "MYP",
+    "aliases": ["Mary"],
+    "category": "turkmenistan",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Дашогуз",
+    "country": "Туркменистан",
+    "iata": "TAZ",
+    "aliases": ["Dashoguz", "Дашховуз"],
+    "category": "turkmenistan",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Туркменбаши",
+    "country": "Туркменистан",
+    "iata": "KRW",
+    "aliases": ["Turkmenbashi", "Красноводск", "Krasnovodsk"],
+    "category": "turkmenistan",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Балканабад",
+    "country": "Туркменистан",
+    "iata": "NBD",
+    "aliases": ["Balkanabat", "Небит-Даг", "Nebit-Dag"],
+    "category": "turkmenistan",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Стамбул",
+    "country": "Турция",
+    "iata": "IST",
+    "aliases": ["Istanbul"],
+    "category": "turkmenistan_airlines_destination",
+    "show_in_buttons": true
+  },
+  {
+    "name": "Дубай",
+    "country": "ОАЭ",
+    "iata": "DXB",
+    "aliases": ["Dubai"],
+    "category": "turkmenistan_airlines_destination",
+    "show_in_buttons": true
+  },
+  {
+    "name": "Абу-Даби",
+    "country": "ОАЭ",
+    "iata": "AUH",
+    "aliases": ["Abu Dhabi"],
+    "category": "turkmenistan_airlines_destination",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Дели",
+    "country": "Индия",
+    "iata": "DEL",
+    "aliases": ["Delhi", "New Delhi", "Нью-Дели"],
+    "category": "turkmenistan_airlines_destination",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Пекин",
+    "country": "Китай",
+    "iata": "BJS",
+    "aliases": ["Beijing"],
+    "category": "turkmenistan_airlines_destination",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Франкфурт",
+    "country": "Германия",
+    "iata": "FRA",
+    "aliases": ["Frankfurt"],
+    "category": "turkmenistan_airlines_destination",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Лондон",
+    "country": "Великобритания",
+    "iata": "LON",
+    "aliases": ["London"],
+    "category": "turkmenistan_airlines_destination",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Москва",
+    "country": "Россия",
+    "iata": "MOW",
+    "aliases": ["Moscow"],
+    "category": "popular_transit",
+    "show_in_buttons": true
+  },
+  {
+    "name": "Казань",
+    "country": "Россия",
+    "iata": "KZN",
+    "aliases": ["Kazan"],
+    "category": "popular_transit",
+    "show_in_buttons": true
+  },
+  {
+    "name": "Санкт-Петербург",
+    "country": "Россия",
+    "iata": "LED",
+    "aliases": ["Saint Petersburg", "Питер", "St Petersburg"],
+    "category": "popular_transit",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Екатеринбург",
+    "country": "Россия",
+    "iata": "SVX",
+    "aliases": ["Yekaterinburg"],
+    "category": "popular_transit",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Ташкент",
+    "country": "Узбекистан",
+    "iata": "TAS",
+    "aliases": ["Tashkent"],
+    "category": "popular_transit",
+    "show_in_buttons": true
+  },
+  {
+    "name": "Самарканд",
+    "country": "Узбекистан",
+    "iata": "SKD",
+    "aliases": ["Samarkand"],
+    "category": "popular_transit",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Баку",
+    "country": "Азербайджан",
+    "iata": "GYD",
+    "aliases": ["Baku"],
+    "category": "popular_transit",
+    "show_in_buttons": false
+  },
+  {
+    "name": "Алматы",
+    "country": "Казахстан",
+    "iata": "ALA",
+    "aliases": ["Almaty"],
+    "category": "popular_transit",
+    "show_in_buttons": false
+  }
+]
